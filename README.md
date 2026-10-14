@@ -36,3 +36,7 @@ Data-center requests may be blocked. Passing fixture tests does not establish cu
 Prepared from revision `6e5eee53f63333aa94d810a21aaedcaa71490891` of the original private repository. This edition starts a clean public history and excludes live deployment wiring. The project remains a prototype, with no guarantee of continuous inventory or provider access.
 
 [Portfolio](https://theonetruedaniel.github.io/) · [GitHub](https://github.com/theonetruedaniel)
+
+## License
+
+Original software and accompanying documentation in this repository are licensed under the [MIT License](LICENSE), copyright (c) 2026 Daniel Abrams. Third-party dependencies and any third-party content retain their respective licenses and rights.
